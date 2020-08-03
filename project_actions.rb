@@ -36,10 +36,10 @@ end
 
 
 results = Actions.new
-# puts results.return_multiplied_by_3
+puts results.return_multiplied_by_3
 
-# puts results.return_just_even_numbers
+puts results.return_just_even_numbers
 
-# puts results.return_just_odd_numbers
+puts results.return_just_odd_numbers
 
 puts results.return_greater_than_3
