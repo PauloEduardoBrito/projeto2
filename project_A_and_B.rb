@@ -118,7 +118,7 @@ class Project_B_and_C
                   "weekEventIndex" => 1,
                   "totalWeekEvents" => 1
           }, {
-                  "day" => 4,
+                  "day" => 04,
                   "month" => 8,
                   "year" => 2020,
                   "hour" => 6,
